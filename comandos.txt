@@ -1,0 +1,4 @@
+cd dev
+cd computacion-trabajo-pr-ctico-no-1-BarbozaFederico
+python -m unittest tests/test_roman_converter.py
+python -m black src/roman_converter.py
